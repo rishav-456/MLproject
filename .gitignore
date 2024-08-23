@@ -1,0 +1,10 @@
+__pycache__
+data
+result.txt
+MyntraFeature
+ml/model/best_model_3.keras
+ml/model/best_model_2.keras
+ml/model/best_model.keras
+ml/model/resnet50_body_shape_classification_model_2.keras
+ml/model/resnet50_body_shape_classification_model.keras
+ml/training_data
